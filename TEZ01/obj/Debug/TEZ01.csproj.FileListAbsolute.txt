@@ -1,0 +1,28 @@
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\bin\Debug\TEZ01.exe.config
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\bin\Debug\TEZ01.exe
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\bin\Debug\TEZ01.pdb
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.Form1.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.Properties.Resources.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.csproj.GenerateResource.Cache
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.exe
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.pdb
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.Form2.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.SatılıkEkle.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.SifreUnuttum.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.kiralıkDüzenle.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.TariheGöreKayıtlar.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.GunlukEvDuzenle.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.GünlükEvEkleme.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.ArsaEkleSilGuncelle.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.satılıkGoruntule.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.satınAlMusteriKaydet.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.kiralıkGoruntule.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.gunlukEvleriGoruntule.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.ArsaGoruntuleAl.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.sozlesme.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.gizlilikPolitikası.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.KullanıcıEkle.resources
+C:\Users\YunusEmre\Desktop\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.csprojResolveAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\TEZ PROJE\TEZ\TEZ01\TEZ01\bin\Debug\TEZ01.exe.config
+C:\Users\YunusEmre\Desktop\TEZ PROJE\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.exe
+C:\Users\YunusEmre\Desktop\TEZ PROJE\TEZ\TEZ01\TEZ01\obj\Debug\TEZ01.pdb

@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>1. SÖZLEŞMENİN TARAFLARI
+1.1. ALICI
+Adı/Soyadı/Unvanı :
+Adresi :
+Telefon :
+Eposta adresi :
+
+1.2. SATICI
+Unvanı : Saraçoğlu Turizm Ve Çevre Teknolojileri San. Ve Tic. A.Ş.
+Adresi :Çavuşoğlu Mah. Spor Cad. No:84 3.kat  Kartal/İstanbul
+Telefon :0216 457 34 10
+Faks :0216 457 34 14
+Eposta adresi : info@profsaracoglu.com
+
+2. SÖZLEŞMENİN KONUSU
+Alıcının Satıcı’ya ait htpp:// www.profsaracoglu.com/ alan adlı internet sitesinden (bundan böyle SİTE olarak anılacaktır) elektronik ortamda siparişini yaptığı aşağıda nitelikleri ve satış fiyatı belirtilen ürünün/lerin satın alınması/satışı ve teslimi ile ilgili olarak 6502 Sayılı Tüketicilerin Korunması Hakkındaki Kanun ve 06.03.2011 Tarihinde 27866 Sayılı Resmi Gazete’de yayımlanan
+ Mesafeli Sözleşmelere Dair Yönetmelik hükümleri ve diğer tüm yasal düzenlemeler ve uygulamalar gereğince tarafların karşılıklı hak ve yükümlülüklerinin saptanması işbu sözleşmenin konusunu oluşturmaktadır.
+
+3. SÖZLEŞME KONUSU ÜRÜN/ÜRÜNLER 
+3.1 Ürünün/lerin türü, cinsi, miktarı, modeli, rengi, satış bedeli, teslimat bilgileri aşağıdaki gibidir. Şöyle ki;
+Ödeme Şekli ve Planı :
+Ürün bilgisi :....
+Ürün satış fiyatı :....
+Teslim Edilecek Kişi :....
+Teslim Edilecek Adres :.....
+Fatura Adresi :....
+Kargo ücreti :....
+
+
+Ürün/Ürünlerin teslimi kargo şirketi aracılığı ile ALICININ yukarıda belirtilen adresine yapılacaktır. Teslim anında ALICININ adresinde bulunmaması durumunda dahi SATICI edimini tam ve eksiksiz olarak yerine getirmiş olarak kabul edilecektir. Bu nedenle, ALICININ ürünü geç teslim almasından kaynaklanan her türlü zarar ile ürünün kargo şirketinde beklemiş olması ve/veya kargonun SATICI'ya iade edilmesinden dolayı oluşan giderlere ALICI katlanacaktır.
+Kargo Ücreti : 0-150 (yüzelli ) Türklirasına kadar olan alışverişlerde kargo ücreti her bir ürüne 7,50 ₺ olarak ücretlendirilmiştir .150 ₺ (yüzelli) ve üzeri tüm alışverişlerde kargo ücretsizdir.
+
+3.2- Ödeme Şekli : Kredi Kartı ile taksitli işlem
+ALICI, vadeli satışların sadece Bankalara ait kredi kartları ile yapılması nedeniyle, ilgili faiz oranlarını ve temerrüt faizi ile ilgili bilgileri bankasından ayrıca teyit edeceğini, yürürlükte bulunan mevzuat hükümleri gereğince faiz ve temerrüt faizi ile ilgili hükümlerin Banka ve ALICI arasındaki kredi kartı sözleşmesi kapsamında uygulanacağını kabul, beyan ve taahhüt eder. 
+Taksitlendirme işlemlerinde, ALICI ile kart sahibi banka arasında imzalamış bulunan sözleşmenin ilgili hükümleri geçerlidir. Kredi kartı ödeme tarihi banka ile ALICI arasındaki sözleşme hükümlerince belirlenir. ALICI, ayrıca bankanın gönderdiği hesap özetinden taksit sayısını ve ödemelerini takip edebilir.
+Kredi kartı ek hizmet bedelleri müşteriye gönderilen faturada belirtilmektedir. 
+4. GENEL KOŞULLAR
+4.1. ALICI, SİTE’de ürünün/lerin temel özellikleri, satış fiyatı, ödeme şekli, teslimata ilişkin ve diğer ön bilgileri okuyup bilgi sahibi olduğunu ve bu konularda elektronik ortamda gerekli teyidi verdiğini beyan eder.
+4.2. ALICI ön bilgilendirmeyi elektronik ortamda teyit etmekle, mesafeli sözleşmelerin akdinden önce, ALICI Tüketici; adres, siparişi verilen ürüne/lere ait temel özellikler, ürünün/lerin vergiler dahil Türk Lirası fiyatı, ödeme ve teslimat bilgilerini de doğru ve eksiksiz olarak edindiğini teyit etmiş olur.
+4.3. Listelenen ve sitede ilan edilen fiyatlar satış fiyatıdır. İlan edilen fiyatlar ve vaatler güncelleme yapılana ve değiştirilene kadar geçerlidir. Süreli olarak ilan edilen fiyatlar ise belirtilen süre sonuna kadar geçerlidir. Ancak hata ile yanlış yazılan, tedarikçinin geç bildirmesi ile güncellenmemiş olan fiyat farklılıklarında müşteriye bildirecek olan güncel fiyat geçerlidir. Hata durumlarında mal/hizmet bedelinden fazla çekim yapılmış ise farkı iade edilir. 
+Mal/hizmetin gerçek fiyatı ilan edilenden farklı ise alıcıya gerçek fiyat bildirilir. Müşteri talebi doğrultusunda gerçek fiyat üzerinden satış gerçekleştirilir ya da satış iptal edilir.
+ Dizgi ve sistem hatalarından meydana gelen fiyat yanlışlıklarından SATICI sorumlu değildir.
+4.4. Kargo firmasının, ürünü ALICI’ya teslimi aşamasında karşılaşacağı her türlü sorun nedeniyle ve /veya SATICI’dan kaynaklanmayan başkaca nedenlerle, siparişi verilen ürünün ALICI'ya teslim edilememesinden dolayı SATICI her ne nam ve ad altında olursa olsun sorumlu tutulamaz.
+4.5. SATICI, sözleşme konusu ürünün/lerin sağlam, eksiksiz, siparişte belirtilen nitelikleri haiz, varsa garanti belgeleri ve kullanım kılavuzları ile teslim edilmesinden sorumludur.
+4.6. SATICI, sözleşmeden doğan ifa yükümlülüğünün süresi dolmadan ALICI’yı bilgilendirmek ve açıkça onayını almak suretiyle eşit kalite ve fiyatta farklı ürün/ler tedarik edebilir.
+4.7. SATICI, sipariş konusu ürünün/lerin teslimini ifasının imkânsızlaşması halinde sözleşme konusu yükümlülüklerini yerine getiremezse, bu durumu, sözleşmeden doğan ifa yükümlülüğünün süresi bitmeden ALICI ‘ya bildirir ve 10 günlük süre içinde nakden ve defaten tahsil ettiği toplam bedeli ALICI’ya iade eder.
+4.8. Ürünün/lerin teslimatı için ön bilgilendirme formunun elektronik ortamda teyit edilmesi gerekmektedir. Herhangi bir nedenle ürün/ler bedeli ödenmez veya banka kayıtlarında iptal edilir ise, SATICI ürünün teslimi yükümlülüğünden kurtulur.
+4.9. Ürünün/lerin teslim edilmesinden sonra ALICI'ya ait kredi kartının ALICI'nın kusurundan kaynaklanmayan bir şekilde yetkisiz kişilerce haksız veya hukuka aykırı olarak kullanılması nedeni ile ilgili banka veya finans kuruluşunun ürün/ler bedelini SATICI'ya ödememesi durumunda, ALICI kendisine teslim edilmiş olması kaydıyla ürünü 3 gün içinde SATICI'ya iade etmek zorundadır. Bu takdirde nakliye giderleri ALICI'ya aittir.
+Aksi taktirde ALICI, SATICI’nın ürün miktarını faizi ile birlikte kendisinden tazmin etmek maksadı ile her türlü yola başvuracağını kabul, beyan ve taahhüt eder.
+4.10. SATICI mücbir sebepler, teslimi engelleyen hava muhalefeti, ulaşımın kesintiye uğraması ve başkaca olağanüstü durumlar nedeni ile sözleşme konusu ürünü/leri süresi içinde teslim edemez ise, bu durumu ALICI'ya bildirecektir. Bu takdirde ALICI (i) siparişin iptal edilmesini, (ii) sözleşme konusu ürünün/lerin varsa emsali ile değiştirilmesini ve/veya (iii) teslimat süresinin mücbir sebebin/engelleyici durumun ortadan kalkmasına kadar ertelenmesi haklarından birini kullanabilir. 
+ALICI'nın siparişi iptal etmesi halinde ödediği toplam tutar 10 gün içinde kendisine nakden ve defaten ödenir. 
+ALICI’nın kredi kartı ile yaptığı ödemelerde ise, ürün/ler tutarı, siparişin ALICI tarafından iptal edilmesinden sonra 7 gün içerisinde ilgili bankaya iade edilir.
+ Bu tutarın bankaya iadesinden sonra ALICI hesaplarına yansıması tamamen banka işlem süreci ile ilgili olduğundan, ALICI, olası gecikmeler için SATICI’nın herhangi bir şekilde müdahalede bulunmasının mümkün olamayacağını ve SATICI tarafından kredi kartına iade edilen tutarın banka tarafından ALICI hesabına yansıtılmasının alacağı sürenin SATICI’nın sorumluluğunda olmadığını bilmekte ve kabul etmektedir.
+4.11. ALICININ cayma hakkını kullandığı durumlarda ya da siparişe konu olan ürünün çeşitli sebeplerle tedarik edilememesi veya Hakem heyeti kararları ile Tüketiciye bedel iadesine karar verilen durumlarda,alışveriş kredi kartı ile ve taksitli olarak yapılmışsa, kredi kartına iade prosedürü aşağıda belirtilmiştir:
+Ürün iadelerinde kusurlu ürün iadeleri haricinde sadece ürün bedeli geri ödenmekte olup sipariş esnasında ödenmiş olan kargo ücretinin geri ödemesi olmamaktadır. Ürün iadesi sonucunda sipariş miktarınızın ücretsiz kargo sınırının altına düştüğü durumlarda iade sonucu ortaya çıkan toplam bedele göre oluşan kargo ücreti geri ödeme tutarından düşülüp kalan bakiye ödenecektir.
+Banka ALICI’ya geri ödemeyi taksitle ve ALICI’nın ürünü aldığı taksit sayısı ile yapabilir. SATICI bankaya ürün bedelinin tamamını tek seferde ödedikten sonra, Banka poslarından yapılan taksitli harcamaların ALICININ kredi kartına iadesi durumunda, konuya müdahil tarafların mağdur duruma düşmemesi için talep edilen iade tutarları, yine taksitli olarak hamil taraf hesaplarına Banka tarafından aktarılabilir.
+ ALICI’nın satış iptaline kadar ödemiş olduğu taksit tutarları ,eğer iade tarihi ile kartın hesap kesim tarihleri çakışmazsa her ay karta 1 iade yansıyacak ve ALICI iade öncesinde ödemiş olduğu taksitleri satışın taksitleri bittikten sonra , iade öncesinde ödemiş olduğu taksitleri sayısı kadar ay daha alacak ve mevcut borçlarından düşmüş olabilecektir.
+Kredi Kartı ile alınmış mal ve hizmetin iadesi durumunda SATICI, Banka ile yapmış olduğu sözleşme gereği Müşteriye nakit para ile ödeme yapamaz. Kredi kartına iade, SATICININ Bankaya bedeli tek seferde ödemesinden sonra, Banka tarafından yukarıdaki prosedür gereğince yapılabilir.
+
+Kapıdan ödeme ile havale/EFT ödeme seçeneklerinde iade Tüketiciden banka hesap bilgileri istenerek,Tüketicinin belirttiği hesaba ( hesabın faturada ismi yazılı kişinin adına olması şarttır) havale ve /veya EFT şeklinde yapılacaktır.
+
+5. TEMERRÜT DURUMU VE HUKUKİ SONUÇLARI
+ALICI, kredi kartı ile yapmış olduğu işlemlerinde temerrüde düşmesi halinde kart sahibi bankanın kendisi ile yapmış olduğu kredi kartı sözleşmesi çerçevesinde faiz ödeyecek ve bankaya karşı sorumlu olacaktır. Bu durumda ilgili banka hukuki yollara başvurabilir; doğacak masrafları ve vekâlet ücretini ALICI’dan talep edebilir ve her koşulda ALICInın borcundan dolayı temerrüde düşmesi halinde,
+ ALICI, borcun gecikmeli ifasından dolayı Satıcının oluşan zarar ve ziyanını ödemeyi kabul eder.
+
+6. SÖZLEŞMEDEN CAYMA HAKKI
+
+ALICI; ürün/ler satışına ilişkin mesafeli sözleşmelerde, ürünün/lerin kendisine veya gösterdiği adresteki kişi/kuruluşa teslim tarihinden itibaren 14 (Ondört) gün içerisinde hiçbir hukuki ve cezai sorumluluk üstlenmeksizin ve hiçbir gerekçe göstermeksizin ürünü/leri reddederek ve kargo ücreti ödemeden sözleşmeden cayma hakkını kullanabilir. 
+Sözleşmeden cayma hakkının kullanılması için 14 günlük süre içinde SATICI'ya iadeli taahhütlü posta veya elektronik posta ile bildirimde bulunulması ve ürünün aşağıda yer alan 6. madde hükümleri çerçevesinde kullanılmamış olması şarttır.
+Sözleşmeden cayma hakkın kullanılması halinde:
+ALICI’ya veya ALICI’nın gösterdiği kişi/kuruluşa teslim edilen ürünün/lerin; 
+(i) faturası ile birlikte eksiksiz ve hasarsız olarak teslim edilmesi gerekmektedir. 
+Önemli uyarı: İade edilmek istenen ürünün/lerin faturası kurumsal ise, geri iade ederken kurumun düzenlemiş olduğu iade faturası ile birlikte gönderilmesi gerekmektedir. Faturası kurumlar adına düzenlenen sipariş iadeleri İADE FATURASI kesilmediği takdirde tamamlanamayacaktır.
+(ii) orijinal kutusu, ambalajı, varsa standart aksesuarları bozulmamış olmalıdır. Orijinal kutusu/ambalajı bozulmuş, kutusu açılmış, 1 defa bile olsa kullanılmış, orijinal kutu üzerine kargo etiketi yapıştırılmış ve kargo koli bandı ile bantlanmış ürünler kabul edilmez, tekrar satılabilirlik özelliğini kaybetmiş , başka bir alıcı tarafından satın alınmayacak ürünlerin iadesi Satıcı tarafından kabul edilmeyecektir. 
+(iii) SATICI, cayma bildiriminin kendisine ulaşmasında itibaren en geç 10 günlük süre içerisinde toplam bedeli ve alıcıyı borç altına sokan belgeleri ALICI’ya iade edecek ve ürünü/leri iade alacaktır. 
+(iiii) ALICI’nın kusurundan kaynaklanan bir nedenle ürünün/lerin değerinde bir azalma olur veya iade imkânsızlaşırsa ALICI kusuru oranında SATICI’nın zararlarını tazmin edecektir. İade gönderimi sırasında kargo firmalarından ya da iade işlemini gerçekleştiren Alıcıdan kaynaklanan sebeplerle , ürün ve ürünle birlikte gönderilen evrak ve materyallerde meydana gelen bozulma ya da benzeri değer kaybettirici her türlü durumun sorumluluğu iadeyi gerçekleştiren Alıcı ya aittir.
+ Böyle bir durumda Satıcı ürünleri iade almak ve bedeli geri ödemek zorunda değildir. 
+( iiiii) Sözleşmeden cayma hakkının kullanılması nedeniyle SATICI tarafından varsa düzenlenen kampanya limit tutarının altına düşülmesi halinde bu kampanya kapsamında faydalanılan indirim miktarı iptal edilir.
+( iiiiii) Alıcı ürünle ilgili bozukluk , memnuniyetsizlik v.b gibi durumlarda ürün faturası ve ekte bildirilen iade formunu ibraz etmek zorundadır. İade formu doldurulmamış , faturası beyan edilmemiş alıcı tarafından iade edilmiş ürünlerin iadesi satıcı tarafından kabul edilmeyecektir.
+Faturası ibraz edilmiş , iade formu doldurulmuş ve iade edilmiş bozuk ve şikayet konusu ürünler Satıcı tarafından 1 hafta süre içinde değerlendirilecek ve alıcı haklı bulunulursa kendisi ile iletişime geçilecek ve 10 gün içinde para iadesi Satıcı tarafından ödenecektir.
+Müşterinin ürünü iade etmesi veya alışverişinden cayması halinde , iade edilen ürün bozuk yada ambalajı tahrip edilmemiş ise Satıcı deposuna ulaştığı andan itibaren 10 on gün içeresinde ürün bedeli Alıcıya iade edilecektir.
+Satıcı üründe ve ambalajında herhangi bir açılma , kullanılma, bozulma, kırılma, tahrip , yırtılma ve sair durumları tespit ettiği hallerde ve ürünün müşteriye teslim edildiği andaki hali ile iade edilmemesi halinde ürünü iade almayacak ve bedelini iade etmeyecektir.
+7. SÖZLEŞMEDEN CAYMA HAKKI KULLANILAMAYACAK ÜRÜN/LER
+
+Niteliği itibarıyla iade edilemeyecek ürünler; tek kullanımlık ürünler, hızlı bozulan veya son kullanım tarihi geçme ihtimali olan, ambalajında herhangi bir açılma , kullanılma, bozulma, kırılma, tahrip , yırtılma ve sair durumlardaki ürünlerin iadesi kabul edilmemektedir. Buna ilaveten ALICI aşağıdaki sözleşmelerde de cayma hakkını kullanamaz.
+a) Cayma hakkı süresi sona ermeden önce, tüketicinin onayı ile hizmetin ifasına başlanan hizmet sözleşmeleri.
+b) Tüketicinin istekleri veya açıkça onun kişisel ihtiyaçları doğrultusunda hazırlanan, niteliği itibariyle geri gönderilmeye elverişli olmayan, ambalajı açılan ve/veya kullanılan , ve çabuk bozulma tehlikesi olan veya son kullanma tarihi geçme ihtimali olan malların teslimine ilişkin sözleşmeler.
+
+8. EKSİK ÜRÜN TESLİMİ DURUMUNDA TUTANAK TUTULMASI
+“ALICI, siparişinde birden fazla ürün bulunduğu durumlarda SATICI tarafından gönderimler parçalı olarak yapılabilmektedir. ALICI Ürün’ün kargo görevlisi tarafından teslimi sırasında Ürün sayısı ile SATICI tarafından düzenlenen faturada belirtilen ürün sayısının aynı olduğunu kontrol etmekle yükümlüdür. Parçalı her gönderim için SATICI tarafından ayrı fatura düzenlenmektedir.
+ Faturada belirtilen adette ürünler pakette bulunmadığı ya da eksik bulunduğu takdirde ALICI kargo görevlisinden tutanak tutması istemekle yükümlüdür.
+ Aksi halde faturada yer alan adette Ürünlerin SATICI tarafından ALICI’ya tam ve eksiksiz teslim edildiği ve ALICI tarafından Ürünlerin tam ve eksiksiz teslim alındığı kabul edilecektir.
+
+9. İHTİLAFLARIN HALLİ VE YETKİLİ MAHKEME
+Sözleşmenin uygulanmasında, T.C. Gümrük ve Ticaret Bakanlığınca ilan edilen değere kadar ALICI’nın ürünü/leri satın aldığı veya ikametgahının bulunduğu yerdeki Tüketici Hakem Heyetleri ile Tüketici Mahkemeleri yetkilidir.
+SATICI şikâyet ve itirazları konusunda başvurularını, T.C. Gümrük ve Ticaret Bakanlığı tarafından her yıl Aralık ayında belirlenen parasal sınırlar dâhilinde, ürünü/leri satın aldığı veya ikametgâhının bulunduğu yerdeki Tüketici Hakem Heyetine veya Tüketici Mahkemesine yapabilir.
+Parasal sınıra ilişkin bilgiler aşağıdadır.
+Tüketici hakem heyetlerinin, uyuşmazlıklara bakmakla görevli ve yetkili olmalarına ilişkin parasal sınırlar;
+a) İlçe tüketici hakem heyetleri için üst parasal sınır, 2.200 Türk Lirası,
+b) Büyükşehir statüsünde olan illerdeki il tüketici hakem heyetleri için parasal sınır, 2.200 Türk Lirası ile 3.300 Türk Lirası arası,
+c) Büyükşehir statüsünde olmayan illerin merkezlerindeki il tüketici hakem heyetleri için üst parasal sınır, 3.300 Türk Lirası,
+ç) Büyükşehir statüsünde olmayan illere bağlı ilçelerdeki il tüketici hakem heyetleri için parasal sınır, 2.200 Türk Lirası ile 3.300 Türk Lirası arası olarak tespit edilmiştir.
+Bu değerlerin üzerindeki uyuşmazlıklar için tüketici hakem heyetlerine başvuru yapılamaz.
+
+Bu sözleşme ticari amaçlarla yapılmıştır.
+SATICI : Saraçoğlu Turz. Çevr. Tekn. San. Tic. AŞ.
+ALICI : ....
+TARİH :....
+</value>
+  </data>
+</root>
